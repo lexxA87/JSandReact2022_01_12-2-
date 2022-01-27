@@ -1,0 +1,22 @@
+{
+  "name": "jsandreact2022-01-12-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexxA87/JSandReact2022_01_12-2-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexxA87/JSandReact2022_01_12-2-/issues"
+  },
+  "homepage": "https://github.com/lexxA87/JSandReact2022_01_12-2-#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
