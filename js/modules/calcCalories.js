@@ -117,4 +117,4 @@ function calcCalories() {
   getDinamicInfo("#age");
 }
 
-module.exports = calcCalories;
+export default calcCalories;
